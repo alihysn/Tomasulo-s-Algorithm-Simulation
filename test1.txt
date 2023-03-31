@@ -1,0 +1,4 @@
+LOAD r1,1(r0)
+MUL r3,r1,r1
+ADD r4,r3,r1
+LOAD r1,3(r0)

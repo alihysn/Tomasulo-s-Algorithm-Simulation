@@ -1,0 +1,4 @@
+BEQ  r2,r1,3
+NEG  r3,r1
+ADD r2,r2,r2
+ADDI r2,r2,1
